@@ -1,0 +1,19 @@
+void main(){
+// = -= /= %= >>= ^=
+// += ~/= <<= |=
+    var numero = 1;
+    numero += 2;
+    // numero = numero + 2;
+    print(numero);
+    
+    var numero2 = 2.0;
+    numero2 /= 1.0;
+    print(numero2);
+
+
+    nome ?? = 'Luciana';ß
+    if(nome == null){
+        nome = 'Luciana';
+    }
+    print(nome);
+}
